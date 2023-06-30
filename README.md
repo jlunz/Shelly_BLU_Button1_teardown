@@ -21,4 +21,9 @@ PA01 (GPIO.SWCLK)
 PA00  
 RESETn  
 
+Button      : PA05  
+LED1 (left) : PC03  
+LED2 (right): PC04  
+
+
 [<img src="images/bot.jpg" alt="Bottom view" width="256">](images/bot.jpg)
