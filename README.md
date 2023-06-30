@@ -6,4 +6,19 @@ https://www.shelly.cloud/de/products/shop/shelly-blu-button1
 
 [<img src="images/top.jpg" alt="Top view" width="256">](images/top.jpg)
 
+CPU: EFR32BG22C222 SoC  
+Marking:  
+BG22  
+C222WG  
+C01UR4  
+2239
+
+Header on the right, from top to bottom:  
+VDD  
+GND  
+PA02 (GPIO.SWDIO)  
+PA01 (GPIO.SWCLK)  
+PA00  
+RESETn  
+
 [<img src="images/bot.jpg" alt="Bottom view" width="256">](images/bot.jpg)
